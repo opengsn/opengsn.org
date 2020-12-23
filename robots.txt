@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://opengsn.org/sitemap.xml
