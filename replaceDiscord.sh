@@ -1,6 +1,6 @@
 #!/bin/bash -xe 
 #note: we don't replace the https prefix, since some occurences have the protocol escaped
-newlink='discord.gg/sUGsbUM5'
+newlink='discord.gg/NXXTCbh58s'
 
 #verify link is valid:
 if ! curl -s -L https://$newlink|grep -m 1 OpenGSN; then
