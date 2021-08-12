@@ -72,6 +72,8 @@
 	
 
 	<script type="text/javascript">
+		//inspired by: https://gist.github.com/konklone/9968713
+		if (window.location.href.match("http://opengsn")) window.location.protocol='https:'
 		var RM = window.RM = window.RM || {};
 
 		try { if (document.domain) document.domain = document.domain; } catch (e) { }
